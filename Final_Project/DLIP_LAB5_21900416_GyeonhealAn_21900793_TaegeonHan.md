@@ -3,10 +3,10 @@
 ## LAB: **Management of Expiration Dates** and Inventory in Unmanned Stores
 
 - Class : Deep Learning Image Processing by prof. Youngkeun Kim
-- Date : 2024-June-21
+- Date : 2024-June-24
 - Author : Gyeonheal An 21900416, Taegeon Han 21900793
-- Github : https://github.com/AnGyeonheal/DLIP_GH
-- Demo Video : [Youtube Link](https://youtu.be/ZL81IVkuZlA)
+- GitHub : [GitHub link -GyeonhealAn](https://github.com/AnGyeonheal/Deep-Learning-Image-Processing?tab=readme-ov-file),  [Github link - TaegeonHan](https://github.com/hhangun/DLIP)
+- Demo Video : [Youtube Link 1](https://youtu.be/ZL81IVkuZlA),  [Youtube Link 2](https://www.youtube.com/watch?v=Im1FNOa7UhM)
 
 ## I. Introduction
 
@@ -137,7 +137,9 @@ To send G-mail using Python code, you need to enable IMAP. From G-mail settings,
 
 We captured convenience store food items and obtained approximately 7,000 frames. These frames were used to train the model, utilizing the Yolov8 pretrained model to recognize different types of food. Each food item needs to be recognized separately, and they were categorized into five classes: triangle kimbap, milk, coffee, yogurt, and sandwich.
 
-**Dataset link:** https://drive.google.com/drive/folders/1bRl-Wt4xP4uXLc9oR0LVHriPSJ1JTpKX?usp=sharing
+[**Dataset link 1**](https://drive.google.com/drive/folders/1bRl-Wt4xP4uXLc9oR0LVHriPSJ1JTpKX?usp=sharing) or [**Dataset link 2**](https://drive.google.com/drive/folders/1bRl-Wt4xP4uXLc9oR0LVHriPSJ1JTpKX?usp=sharing)
+
+
 
 <img src="https://github.com/hhangun/Picture-for-LAB/assets/110027113/819464c3-ee83-404b-a97e-1d3787b1c1e1" alt="image" style="zoom: 67%;" />
 
@@ -153,13 +155,13 @@ We went to a school convenience store and took videos of the foods we wanted. Fr
 
 The classes were set to triangular gimbap, milk, coffee, yogurt, and sandwich from 0 to 4, respectively.
 
+![image](https://github.com/AnGyeonheal/Deep-Learning-Image-Processing/assets/118132313/046e0ef9-af79-4434-aa6f-b40979997ca2)
+
+<center>Figure 3. Labeling Examples</center>  
+
 <img src="https://github.com/hhangun/Picture-for-LAB/assets/110027113/0a642408-05bb-4813-a5e0-4eb478d7a48f" alt="image" style="zoom: 50%;" />
 
-<center>Figure 3. Labeling using DarkLabel</center>  
-
-<img src="https://github.com/AnGyeonheal/DLIP_GH/assets/118132313/68ff3786-44a8-41b0-8ce0-bd4f51b739a2" alt="image" style="zoom:50%;" />
-
-<center>Figure 4. Labeling Examples</center>  
+<center>Figure 4. Labeling using DarkLabel</center>  
 
 As shown in Figure 4, recorded videos are used for labeling to determine each class for each item. After labeling is complete, save the image file and txt file. If you open the txt file, you can see that unnecessary values such as '-1' are in column 2. Therefore, it was removed using the matlab code below. We can see the Matlab results in Figure 5.
 
@@ -333,11 +335,9 @@ nc: 5
 
 # class names
 names: ['Triangle kimbap', 'Milk', 'Coffee', 'Yogurt', 'Sandwich']
-
-
 ```
 
-![image](https://github.com/AnGyeonheal/DLIP_GH/assets/118132313/4ff1a520-4b6a-4e30-8bf2-debc1cc139c6)
+![image](https://github.com/AnGyeonheal/Deep-Learning-Image-Processing/assets/118132313/5e1cf478-192b-45f9-8943-31e918d3e4cc)
 
 **Caution:** When setting the path for image data in the yaml file using relative paths, an error occurred in the training code as it could not find the specified paths. Therefore, the absolute paths in the code above should be replaced with your own absolute paths to enable training.
 
@@ -361,8 +361,6 @@ def train():
 if __name__ == '__main__':
     train()
 ```
-
-
 
 ### 2. Flow Chart
 
@@ -466,7 +464,7 @@ def update_detection_times(results, current_time, display_frame): # Calculate Pa
 
 If at least one of the five items in a class is not detected for a certain period of time, an email is sent to the store owner indicating that the item is out of stock, and the `stock_email_flag` value is set to True to prevent duplicate emails.
 
-<img src="https://github.com/AnGyeonheal/DLIP_GH/assets/118132313/790ca8e8-7ff1-4b15-8911-6f2c34637580" alt="image" style="zoom:50%;" />
+![image](https://github.com/AnGyeonheal/Deep-Learning-Image-Processing/assets/118132313/f000f8fd-7688-4d96-9591-3dff7c49a843)
 
 <center>Figure 11. Out of stock situation</center>  
 
@@ -581,7 +579,7 @@ Explain the final result and analyze in terms of accuracy/precision/recall etc..
 
 ### 1. Result
 
-<img src="https://github.com/AnGyeonheal/DLIP_GH/assets/118132313/d63ae2f1-87c2-4524-9cd3-67f8b475a20a" alt="image" style="zoom: 50%;" />
+<img src="https://github.com/AnGyeonheal/Deep-Learning-Image-Processing/assets/118132313/53de9e0f-7d9f-4f65-afcf-633cc0df3fb2" alt="image" style="zoom:50%;" />
 
 <center>Figure 15. Result Images</center>  
 
@@ -591,19 +589,19 @@ The above images show item detection, expiration date check, price confirmation,
 
 We created a demo video that shows the result of final project
 
-Link: [Youtube Link](https://youtu.be/Im1FNOa7UhM)
+Demo Video : [Youtube Link 1](https://youtu.be/ZL81IVkuZlA),  [Youtube Link 2](https://www.youtube.com/watch?v=Im1FNOa7UhM)
 
 
 
 ### 2. Evaluation
 
-<img src="https://github.com/AnGyeonheal/DLIP_GH/assets/118132313/0327997f-0c07-494b-965a-f6dbc7e99af9" alt="image" style="zoom:50%;" />
+<img src="https://github.com/AnGyeonheal/Deep-Learning-Image-Processing/assets/118132313/964a5d58-63a9-47f3-b098-132cc5aed0d8" alt="image" style="zoom:50%;" />
 
 <center>Figure 16. Images for Evaluation</center>  
 
 The performance of the model, trained on various convenience store foods, was tested. The photos used to evaluate the model's performance consisted of both personally taken photos and those obtained from the internet.
 
-<img src="https://github.com/AnGyeonheal/DLIP_GH/assets/118132313/6dccead3-97e8-4a5b-81ab-34e0ae704e0e" alt="image" style="zoom:50%;" />
+<img src="https://github.com/AnGyeonheal/Deep-Learning-Image-Processing/assets/118132313/42d631a7-3885-4773-a84b-fe7be4daafa0" alt="image" style="zoom:50%;" />
 
 | Evaluation | Score  |
 | :--------: | :----: |

@@ -43,167 +43,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca34e9ce-b038-437a-a654-c686a719ed57" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/DLIP/.idea/DLIP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/.idea/DLIP_py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/DLIP_Tutorial_OpenCV_Image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/Finger_print_gray.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/HGU_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/LAB2_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/LAB2_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/LAB2_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/Lab_GrayScale_TestImage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/Lane_test_img.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/OpenCV_Chessboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/Pattern_original.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/Pattern_original_GaussNoise.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/Septagon_noisy.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/TrafficSign1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/barcode2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/blurry_moon.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/checkedPattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/circuitboard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/circuitboard_Gnoise.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/circuitboard_impulseNoise.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/coin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/coins.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/color_ball.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/eyepupil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/handonglogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/lab2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/localThresh1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/localThresh2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/localThresh3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/pic1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/pillsetc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/rice.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/roadshadow.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/sudoku.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DLIP_python/DLIP_py/Image/track_gray.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB/LAB3/DLIP_LAB3_21900416_GyeonhealAn.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB/LAB3/DLIP_LAB3_21900416_GyeonhealAn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB/LAB3/LAB3_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB/LAB3/LAB3_Test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB/LAB3/ddd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial/DLIP_Tutorial_ColorImage/Tutorial_ColorSegmentation_trackbar_2021.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial/DLIP_Tutorial_ColorImage/Tutorial_ColorSegmentation_trackbar_2021.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-07f32a3b2c9ceb9825bd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-ea99f4b83d14e22f7a4a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4f6ebdabc83df17af33d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-5d5654ff8752305ed79d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-77b28ce2d9f4e64673b2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ea293505dee48a68114d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-LAB-Debug-26a87797061d6f1ffcf4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-LAB.LAB1-Debug-047c4edd55310a5cf85a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-LAB.LAB2-Debug-9e72323c4dc7c3b55e13.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-Tutorial-Debug-f2bf484f687f29cb5d31.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-Tutorial.DLIP_Tutorial_Calibration-Debug-3b95a4cf4b323f291bd3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-Tutorial.DLIP_Tutorial_ColorImage-Debug-564b168a8c594005711f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-Tutorial.DLIP_Tutorial_EdgeLineCorner-Debug-bc1a662b8685811fad4e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-Tutorial.DLIP_Tutorial_Filter-Debug-a8a54525c54d26a9c59f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-Tutorial.DLIP_Tutorial_ThresholdMorphology-Debug-c1300ea479ed23a62ccd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-03-31T08-55-46-0435.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-05-04T08-44-47-0813.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Canny_Edge-Debug-c48c9f17070dade0c7bd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Canny_Student-Debug-3b89692f6355d80957d9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Canny_edge_Demo-Debug-9cbf6e21e54435cb70a5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Canny_edge_Student-Debug-567432a03bc19512e95e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Color_trackbar-Debug-afefc2496f5b2c81c648.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Color_webcam-Debug-4157c1ef043a0dce51f0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Corner_Tracking-Debug-6e1c6e689b262c8d2831.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Corner_Tut-Debug-4a9748ea9e9ad81a492d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-DLIP_GH-Debug-21438e64a7d8ff8dd368.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-DLIP_Tutorial_CornerDetection-Debug-fa6a714e21ab5d3f5695.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-DLIP_Tutorial_ThresholdMorph_trackbar-Debug-e0f7871515887eb291ac.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-DLIP_Tutorial_Threshold_demo-Debug-3cfe787808d18f8cabe3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Filter-Debug-d4a0ce753332d25edf95.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Filter-Debug-d69442144ac13245f5f7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Filter_webcam-Debug-6ea0953d5ca4da06974d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-HIST_1D-Debug-e317fb53c2d8ff71203b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-HIST_Color-Debug-42ad1c5a9b49eca6ce24.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-HIST_webcam-Debug-10d18b7fba84e01d34be.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Histogram_1D-Debug-93d7e4bb995c90b1e7f2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Histogram_Color-Debug-ad960202833e74a3fd63.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Histogram_webcam-Debug-6dfd88f04d415aa3d711.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-HoughCircle_Exercise-Debug-cd7bcef63e3b624451fe.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-HoughLine-Debug-eae17fe953bdc3c8d034.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Hough_Circle-Debug-95ac763c0a1118649d23.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Hough_Circle_Demo-Debug-ef5da85de1d11e3ab6c4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Hough_Line_Transform_Student-Debug-351cc939415a0610d98b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Hough_Student-Debug-4aedd6fe08a59fe7e024.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Houghline_Demo-Debug-87936d630b99c746bbb7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LAB1-Debug-20fb0252aac74e64aa05.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LAB1-Debug-241871b9f00026b7b576.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LAB2-Debug-b4ef97af173a951ba084.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-OpenCV-Debug-8aab7285dfe989fc5e86.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-OpenCV-Debug-cf26590b6c044fcb56d6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Optimal_Flow-Debug-e3869b816022bf9d0824.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TRACKBAR-Debug-f4ffe3906a708f516afd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TUT1-Debug-01c937113e434d0b3ec2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TUT3-Debug-58e768186e05949b9d72.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TUT4-Debug-12163c8ac2bb280af12e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-T_calibration-Debug-e509cb6bcc865f177f95.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-T_calibration_tiny-Debug-4016f8f6c120b7da4dd3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-35459664168504655483.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/compiler_depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/compiler_depend.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/DLIP_GH.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/Include/OpenCV_Setting.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/Include/OpenCV_Setting.cpp.obj.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/OpenCV.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/cmake_clean_target.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/compiler_depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/compiler_depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/compiler_depend.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenCV.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/foo.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ShowIncludes/main.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Project/DLIP_LAB5_21900416_GyeonhealAn_21900793_TaegeonHan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Project/DLIP_LAB5_21900416_GyeonhealAn_21900793_TaegeonHan.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,24 +73,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.cidr.embedded.config&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/heal/source/repos/Deep-Learning-Image-Processing/Final_Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.cidr.embedded.config",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="CMake 애플리케이션.Color_trackbar">
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Canny_edge_Demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DLIP_GH" TARGET_NAME="Canny_edge_Demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DLIP_GH" RUN_TARGET_NAME="Canny_edge_Demo">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -366,36 +212,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="CMake 애플리케이션.OpenCV" />
-      <item itemvalue="CMake 애플리케이션.LAB1" />
-      <item itemvalue="CMake 애플리케이션.LAB2" />
-      <item itemvalue="CMake 애플리케이션.T_calibration" />
-      <item itemvalue="CMake 애플리케이션.T_calibration_tiny" />
-      <item itemvalue="CMake 애플리케이션.Color_trackbar" />
-      <item itemvalue="CMake 애플리케이션.Color_webcam" />
-      <item itemvalue="CMake 애플리케이션.Canny_edge_Demo" />
-      <item itemvalue="CMake 애플리케이션.Canny_edge_Student" />
-      <item itemvalue="CMake 애플리케이션.Corner_Tracking" />
-      <item itemvalue="CMake 애플리케이션.DLIP_Tutorial_CornerDetection" />
-      <item itemvalue="CMake 애플리케이션.Hough_Circle_Demo" />
-      <item itemvalue="CMake 애플리케이션.Hough_Line_Transform_Student" />
-      <item itemvalue="CMake 애플리케이션.HoughCircle_Exercise" />
-      <item itemvalue="CMake 애플리케이션.Houghline_Demo" />
-      <item itemvalue="CMake 애플리케이션.Optimal_Flow" />
-      <item itemvalue="CMake 애플리케이션.Filter" />
-      <item itemvalue="CMake 애플리케이션.Filter_webcam" />
-      <item itemvalue="CMake 애플리케이션.DLIP_Tutorial_Threshold_demo" />
-      <item itemvalue="CMake 애플리케이션.DLIP_Tutorial_ThresholdMorph_trackbar" />
-      <item itemvalue="CMake 애플리케이션.Histogram_1D" />
-      <item itemvalue="CMake 애플리케이션.Histogram_Color" />
-      <item itemvalue="CMake 애플리케이션.Histogram_webcam" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -409,6 +225,7 @@
       <workItem from="1714415662772" duration="65000" />
       <workItem from="1714812277273" duration="902000" />
       <workItem from="1714995933394" duration="1244000" />
+      <workItem from="1719229391136" duration="42000" />
     </task>
     <servers />
   </component>
