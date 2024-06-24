@@ -1,0 +1,2 @@
+add_executable(Color_trackbar Tutorial_ColorSegmentation_trackbar_2021.cpp)
+add_executable(Color_webcam Tutorial_Webcam_ColorSegmentation.cpp)

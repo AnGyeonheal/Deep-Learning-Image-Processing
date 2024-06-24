@@ -1,0 +1,5 @@
+add_executable(Histogram_1D DLIP_Tutorial_Histogram_1D_demo_image.cpp)
+add_executable(Histogram_webcam DLIP_Tutorial_Histogram_1D_demo_webcam.cpp)
+add_executable(Histogram_Color DLIP_Tutorial_Histogram_demo_image.cpp)
+add_executable(DLIP_Tutorial_ThresholdMorph_trackbar DLIP_Tutorial_ThresholdMorph_trackbar.cpp)
+add_executable(DLIP_Tutorial_Threshold_demo DLIP_Tutorial_Threshold_demo.cpp)

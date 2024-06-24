@@ -1,0 +1,6 @@
+add_subdirectory(DLIP_Tutorial_Calibration)
+add_subdirectory(DLIP_Tutorial_ColorImage)
+add_subdirectory(DLIP_Tutorial_EdgeLineCorner)
+add_subdirectory(DLIP_Tutorial_Filter)
+add_subdirectory(DLIP_Tutorial_ThresholdMorphology)
+

@@ -1,0 +1,2 @@
+add_executable(Filter DLIP_Tutorial_Filter_Image.cpp)
+add_executable(Filter_webcam filter_demo_webcam.cpp)

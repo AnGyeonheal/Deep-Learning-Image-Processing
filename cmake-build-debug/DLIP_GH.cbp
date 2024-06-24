@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="DLIP_GH"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\opencv\;CMake Files\..\..\..\..\..\opencv\build\;CMake Files\..\..\..\..\..\opencv\build\x64\;CMake Files\..\..\..\..\..\opencv\build\x64\vc16\;CMake Files\..\..\..\..\..\opencv\build\x64\vc16\lib\;CMake Files\Tutorial\;CMake Files\Tutorial\image_calibration\;CMake Files\Tutorial\image_calibration\sourceCode\;CMake Files\LAB\;CMake Files\LAB\LAB2\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DLIP_GH">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/DLIP_GH.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 DLIP_GH"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="DLIP_GH/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/DLIP_GH.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 DLIP_GH/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OpenCV">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/OpenCV.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 OpenCV"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OpenCV/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/OpenCV.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 OpenCV/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TUT1">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/TUT1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 TUT1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TUT1/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/TUT1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 TUT1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Filter">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Filter.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Filter"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Filter/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Filter.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Filter/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TUT3">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/TUT3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 TUT3"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TUT3/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/TUT3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 TUT3/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TUT4">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/TUT4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 TUT4"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TUT4/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/TUT4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 TUT4/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TRACKBAR">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/TRACKBAR.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 TRACKBAR"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TRACKBAR/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/TRACKBAR.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 TRACKBAR/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HIST_1D">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/HIST_1D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 HIST_1D"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HIST_1D/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/HIST_1D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 HIST_1D/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HIST_webcam">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/HIST_webcam.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 HIST_webcam"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HIST_webcam/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/HIST_webcam.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 HIST_webcam/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HIST_Color">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/HIST_Color.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 HIST_Color"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HIST_Color/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/HIST_Color.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 HIST_Color/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Canny_Edge">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Canny_Edge.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Canny_Edge"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Canny_Edge/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Canny_Edge.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Canny_Edge/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HoughLine">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/HoughLine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 HoughLine"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HoughLine/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/HoughLine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 HoughLine/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hough_Circle">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Hough_Circle.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Hough_Circle"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hough_Circle/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Hough_Circle.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Hough_Circle/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hough_Student">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Hough_Student.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Hough_Student"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Hough_Student/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Hough_Student.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Hough_Student/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Canny_Student">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Canny_Student.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Canny_Student"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Canny_Student/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Canny_Student.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Canny_Student/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Corner_Tut">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Corner_Tut.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Corner_Tut"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Corner_Tut/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/Corner_Tut.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 Corner_Tut/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="color">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/color.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 color"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="color/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/color.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 color/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="webcam_color">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/webcam_color.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 webcam_color"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="webcam_color/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/webcam_color.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 webcam_color/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="calibration">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/image_calibration/sourceCode/calibration.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/image_calibration/sourceCode"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\image_calibration\sourceCode\Makefile VERBOSE=1 calibration"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\image_calibration\sourceCode\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\image_calibration\sourceCode\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\image_calibration\sourceCode\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="calibration/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/image_calibration/sourceCode/calibration.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/Tutorial/image_calibration/sourceCode"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\image_calibration\sourceCode\Makefile VERBOSE=1 calibration/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\image_calibration\sourceCode\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\image_calibration\sourceCode\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\Tutorial\image_calibration\sourceCode\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LAB1">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/LAB1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 LAB1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LAB1/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/LAB1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 LAB1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+<<<<<<< Updated upstream
+			<Target title="LAB1_ex">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/LAB1_ex.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 LAB1_ex"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LAB1_ex/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/LAB1_ex.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 LAB1_ex/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LAB2">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/LAB2/LAB2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/LAB2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB2\Makefile VERBOSE=1 LAB2"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB2\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB2\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB2\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LAB2/fast">
+				<Option output="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/LAB2/LAB2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/heal/source/repos/DLIP_GH/cmake-build-debug/LAB/LAB2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/opencv/build/include/opencv2"/>
+					<Add directory="C:/Users/heal/source/repos/DLIP_GH/Include"/>
+					<Add directory="C:/opencv/build/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB2\Makefile VERBOSE=1 LAB2/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB2\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB2\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\heal\source\repos\DLIP_GH\cmake-build-debug\LAB\LAB2\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+=======
+>>>>>>> Stashed changes
+		</Build>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Include/OpenCV_Setting.cpp">
+			<Option target="OpenCV"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Include/OpenCV_Setting.h">
+			<Option target="OpenCV"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/LAB/DLIP_LAB1_21900416_GyeonehalAn.cpp">
+			<Option target="LAB1"/>
+		</Unit>
+<<<<<<< Updated upstream
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/LAB/LAB1_ex.cpp">
+			<Option target="LAB1_ex"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/LAB/LAB2/DLIP_LAB2_21900416_GyeonhealAn.cpp">
+			<Option target="LAB2"/>
+		</Unit>
+=======
+>>>>>>> Stashed changes
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/Canny_edge_Demo.cpp">
+			<Option target="Canny_Edge"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/Canny_edge_Student.cpp">
+			<Option target="Canny_Student"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_CornerDetection.cpp">
+			<Option target="Corner_Tut"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_Filter_Image.cpp">
+			<Option target="Filter"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_Filter_Image.h">
+			<Option target="Filter"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_Histogram_1D_demo_image.cpp">
+			<Option target="HIST_1D"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_Histogram_1D_demo_webcam.cpp">
+			<Option target="HIST_webcam"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_Histogram_demo_image.cpp">
+			<Option target="HIST_Color"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_ThresholdMorph_trackbar.cpp">
+			<Option target="TRACKBAR"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/DLIP_Tutorial_Threshold_demo.cpp">
+			<Option target="TUT4"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/Hough_Circle_Demo.cpp">
+			<Option target="Hough_Circle"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/Hough_Line_Transform_Student.cpp">
+			<Option target="Hough_Student"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/Houghline_Demo.cpp">
+			<Option target="HoughLine"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/Tutorial_ColorSegmentation_trackbar_2021.cpp">
+			<Option target="color"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/Tutorial_Webcam_ColorSegmentation.cpp">
+			<Option target="webcam_color"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/filter_demo_webcam.cpp">
+			<Option target="TUT3"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/image_calibration/sourceCode/ShowUndistorted_tiny.cpp">
+			<Option target="calibration"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/image_calibration/sourceCode/cameraParam.h">
+			<Option target="calibration"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/image_calibration/sourceCode/tinyxml2.cpp">
+			<Option target="calibration"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/image_calibration/sourceCode/tinyxml2.h">
+			<Option target="calibration"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/tutorial_1.cpp">
+			<Option target="DLIP_GH"/>
+			<Option target="TUT1"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/tutorial_1.h">
+			<Option target="DLIP_GH"/>
+			<Option target="TUT1"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/../../../../../opencv/build/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opencv\build\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/../../../../../opencv/build/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opencv\build\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/../../../../../opencv/build/x64/vc16/lib/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opencv\build\x64\vc16\lib\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/../../../../../opencv/build/x64/vc16/lib/OpenCVModules-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opencv\build\x64\vc16\lib\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/../../../../../opencv/build/x64/vc16/lib/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opencv\build\x64\vc16\lib\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/../../../../../opencv/build/x64/vc16/lib/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opencv\build\x64\vc16\lib\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Tutorial\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/Tutorial/image_calibration/sourceCode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Tutorial\image_calibration\sourceCode\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/LAB/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LAB\"/>
+		</Unit>
+		<Unit filename="C:/Users/heal/source/repos/DLIP_GH/LAB/LAB2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\LAB\LAB2\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "DLIP_Tutorial_Calibration",
+					"jsonFile" : "directory-DLIP_Tutorial_Calibration-Debug-df51eaa5d7dc62da98a9.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "DLIP_Tutorial_Calibration",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "DLIP_Tutorial_ColorImage",
+					"jsonFile" : "directory-DLIP_Tutorial_ColorImage-Debug-bbb314c63df1b3a81a65.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "DLIP_Tutorial_ColorImage"
+				},
+				{
+					"build" : "DLIP_Tutorial_EdgeLineCorner",
+					"jsonFile" : "directory-DLIP_Tutorial_EdgeLineCorner-Debug-fb046dc369db72bc4678.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "DLIP_Tutorial_EdgeLineCorner"
+				},
+				{
+					"build" : "DLIP_Tutorial_Filter",
+					"jsonFile" : "directory-DLIP_Tutorial_Filter-Debug-b1e22f6f2e5ad9d1be41.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "DLIP_Tutorial_Filter"
+				},
+				{
+					"build" : "DLIP_Tutorial_ThresholdMorphology",
+					"jsonFile" : "directory-DLIP_Tutorial_ThresholdMorphology-Debug-90ea659e33d72c42c04f.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "DLIP_Tutorial_ThresholdMorphology"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "calibration::@8b23c899920c8ff01d24",
+					"jsonFile" : "target-calibration-Debug-f8a688a4feded3182959.json",
+					"name" : "calibration",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/heal/source/repos/DLIP_GH/Tutorial/cmake-build-debug",
+		"source" : "C:/Users/heal/source/repos/DLIP_GH/Tutorial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
