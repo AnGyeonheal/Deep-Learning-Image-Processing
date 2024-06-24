@@ -3,10 +3,10 @@
 ## LAB: **Management of Expiration Dates** and Inventory in Unmanned Stores
 
 - Class : Deep Learning Image Processing by prof. Youngkeun Kim
-- Date : 2024-June-21
+- Date : 2024-June-24
 - Author : Gyeonheal An 21900416, Taegeon Han 21900793
-- Github : https://github.com/AnGyeonheal/DLIP_GH
-- Demo Video : [Youtube Link](https://youtu.be/ZL81IVkuZlA)
+- GitHub : [GitHub link -GyeonhealAn](https://github.com/AnGyeonheal/Deep-Learning-Image-Processing?tab=readme-ov-file),  [Github link - TaegeonHan](https://github.com/hhangun/DLIP)
+- Demo Video : [Youtube Link 1](https://youtu.be/ZL81IVkuZlA),  [Youtube Link 2](https://www.youtube.com/watch?v=Im1FNOa7UhM)
 
 ## I. Introduction
 
@@ -137,7 +137,9 @@ To send G-mail using Python code, you need to enable IMAP. From G-mail settings,
 
 We captured convenience store food items and obtained approximately 7,000 frames. These frames were used to train the model, utilizing the Yolov8 pretrained model to recognize different types of food. Each food item needs to be recognized separately, and they were categorized into five classes: triangle kimbap, milk, coffee, yogurt, and sandwich.
 
-**Dataset link:** https://drive.google.com/drive/folders/1bRl-Wt4xP4uXLc9oR0LVHriPSJ1JTpKX?usp=sharing
+[**Dataset link 1**](https://drive.google.com/drive/folders/1bRl-Wt4xP4uXLc9oR0LVHriPSJ1JTpKX?usp=sharing) or [**Dataset link 2**](https://drive.google.com/drive/folders/1bRl-Wt4xP4uXLc9oR0LVHriPSJ1JTpKX?usp=sharing)
+
+
 
 <img src="https://github.com/hhangun/Picture-for-LAB/assets/110027113/819464c3-ee83-404b-a97e-1d3787b1c1e1" alt="image" style="zoom: 67%;" />
 
@@ -587,7 +589,7 @@ The above images show item detection, expiration date check, price confirmation,
 
 We created a demo video that shows the result of final project
 
-Link: [Youtube Link](https://youtu.be/Im1FNOa7UhM)
+Demo Video : [Youtube Link 1](https://youtu.be/ZL81IVkuZlA),  [Youtube Link 2](https://www.youtube.com/watch?v=Im1FNOa7UhM)
 
 
 
